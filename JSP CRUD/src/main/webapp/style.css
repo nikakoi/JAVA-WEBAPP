@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+a {
+    background-color: skyblue;
+    color: white;
+    padding: 8px 12px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+a:hover {
+    background-color: green;
+}
